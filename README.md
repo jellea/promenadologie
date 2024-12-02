@@ -1,6 +1,6 @@
 # Promenadologie: Dynamic Maps for Soundscape Composition
 
-This repository contains code for **Promenadologie**, a browser-based interface for exploring geo-tagged field recordings as presented on the [Dimmi 2024 conference](https://event.unitn.it/dimmi2024/)
+This repository contains the prototype of **Promenadologie**, a browser-based interface for exploring geo-tagged field recordings as presented on the [Dimmi 2024 conference](https://event.unitn.it/dimmi2024/)
 
 Inspired by soundscape composition and the concept of dérive, we explored an alternative way to enjoy field recordings.
 

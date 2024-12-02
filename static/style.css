@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Fluxisch';
+  src: url('./FluxischElse-Regular.woff') format('woff');
+  font-weight: normal;
+}
+
+.time {
+  font-family: Fluxisch, monospace;
+  font-variant-numeric: tabular-nums;
+  display: ruby;
+  font-size: 1rem;
+  position: absolute;
+  top: -15px;
+  left: 15px
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /* z-index: -100; */
+}
+
+.player-container {
+  padding-left: 0px;
+}

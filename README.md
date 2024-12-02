@@ -1,4 +1,4 @@
-# Prototype 2
+# Promenadologie: Dynamic Maps for Soundscape Composition
 
 Copy over recordings and fit files to the soundwalks folder.
 

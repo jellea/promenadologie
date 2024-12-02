@@ -6,6 +6,8 @@ Inspired by soundscape composition and the concept of dérive, we explored a alt
 
 Read more about it in [our paper](https://www.researchgate.net/publication/386086931_Promenadologie_Dynamic_Maps_for_Soundscape_Composition)
 
+You can try the [demo](https://promenadologie.surge.sh/) here. Just take note that it download about 100mb worth of mp3s.
+
 ## How to run it
 
 Copy over recordings and fit files to the soundwalks folder, give them matching names.
